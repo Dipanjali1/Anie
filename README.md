@@ -1,8 +1,6 @@
 # PigeonExpress
 
-![Project Logo](https://img.icons8.com/windows/32/FFFFFF/peace-pigeon.png)
-
-- [Visit the site](https://pigeonexpress.netlify.app/)
+![Project Logo](https://img.icons8.com/windows/32/FFFFFF/peace-pigeon.png)[PigeonExpress](https://pigeonexpress.netlify.app/)
 
 ## Overview
 
