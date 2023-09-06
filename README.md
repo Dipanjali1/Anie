@@ -38,33 +38,35 @@ This project is a modern email management platform designed to provide a seamles
    ```bash
    git clone https://github.com/your-username/your-project.git
 2. Install dependencies for the frontend and backend:
-# Navigate to the frontend directory
+   ```bash
+### Navigate to the frontend directory
 cd client
 npm install
 
-# Navigate to the backend directory
+### Navigate to the backend directory
 cd ../server
 npm install
 
 3. Configure environment variables as needed.
 4. Start the frontend and backend servers:
-# Start the frontend server
+   ```bash
+### Start the frontend server
 cd client
 npm start
 
-# Start the backend server
+### Start the backend server
 cd ../server
 npm start
 
 5. Access the application locally at `http://localhost:3000`
 
-## Deployment
+# Deployment
 
-# Frontend:
+## Frontend:
 The frontend of this project is deployed using Netlify. Automatic deployments are triggered on each push to the main branch.
-# Backend:
+## Backend:
 The backend of this project is deployed using Render.
 
-## Acknowledgements
+# Acknowledgements
 
 - Special thanks to the open-source community for their contributions and support.
