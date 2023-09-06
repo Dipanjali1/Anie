@@ -18,8 +18,8 @@ This project is a modern email management platform designed to provide a seamles
 ## Technologies Used
 
 - **Frontend**:
-  - HTML
-  - CSS
+  - [HTML](https://html.com/)
+  - [CSS](https://www.free-css.com/)
   - [JavaScript](https://www.javascript.com/)
   - [React](https://reactjs.org/)
   - [Netlify](https://www.netlify.com/)
@@ -39,26 +39,20 @@ This project is a modern email management platform designed to provide a seamles
    git clone https://github.com/your-username/your-project.git
 2. Install dependencies for the frontend and backend:
    ```bash
-### Navigate to the frontend directory
-cd client
-npm install
+   cd client
+   npm install
 
-### Navigate to the backend directory
-cd ../server
-npm install
-
-3. Configure environment variables as needed.
-4. Start the frontend and backend servers:
+   cd server
+   npm install
+4. Configure environment variables as needed.
+5. Start the frontend and backend servers:
    ```bash
-### Start the frontend server
-cd client
-npm start
+   cd client
+   npm start
 
-### Start the backend server
-cd ../server
-npm start
-
-5. Access the application locally at `http://localhost:3000`
+   cd server
+   npm start
+7. Access the application locally at `http://localhost:3000`
 
 # Deployment
 
